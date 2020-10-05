@@ -23,6 +23,22 @@
       "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
       "weight": "199.5 lbs",
       "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+      "name": "Cloyster",
+      "type": "water",
+      "description": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+      "weight": "292.2",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+      "id": 5
+    },
+    {
+      "name": "vulpix",
+      "type": "fire",
+      "description": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+      "weight": "21.8",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+      "id": 6
     }
   ]
 }

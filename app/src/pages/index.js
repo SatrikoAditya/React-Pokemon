@@ -1,0 +1,6 @@
+export {default as Home} from './Home'
+export {default as Add} from './Add'
+export {default as Detail} from './Detail'
+export {default as Grass} from './grass'
+export {default as Fire} from './fire'
+export {default as Water} from './water'
