@@ -1,0 +1,28 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": "grass",
+      "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+      "weight": "15.2 lbs",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+    },
+    {
+      "id": 2,
+      "name": "Wartortle",
+      "type": "water",
+      "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
+      "weight": "49.6 lbs",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+      "id": 3,
+      "name": "Charizard",
+      "type": "fire",
+      "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+      "weight": "199.5 lbs",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    }
+  ]
+}
